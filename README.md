@@ -5,3 +5,8 @@
 ### インストール関係
 
 ``` $ python -m pip install discord.py[voice]```
+
+# English
+### Install
+
+```$ python -m pip install discord.py[voice]```
