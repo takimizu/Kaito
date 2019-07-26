@@ -7,6 +7,8 @@
 ``` $ python -m pip install discord.py[voice]```
 
 # English
+## Takimizu Kaito
+Kakimizu Kaito is one of Takimizu family. This code is the bot(by Discord.py) and the web application(by PHP).
 ### Install
 
 ```$ python -m pip install discord.py[voice]```
